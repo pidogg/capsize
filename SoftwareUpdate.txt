@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
