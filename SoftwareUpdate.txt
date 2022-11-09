@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
