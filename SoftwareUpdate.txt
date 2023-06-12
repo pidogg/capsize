@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
