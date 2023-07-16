@@ -1,1 +1,1 @@
-added badges (#45)
+Update mkdocs.yml (#7693)
