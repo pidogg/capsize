@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Hold failed upload metrics and upload with next upload metrics (#8513)
