@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add distance calculation feature in vision-eye (#8616)
