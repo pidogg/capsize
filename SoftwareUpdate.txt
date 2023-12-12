@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix TypeError in check_cfg() (#9245)
