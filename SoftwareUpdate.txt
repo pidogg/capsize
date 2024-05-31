@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add C++ Classify inference example (#6868)
